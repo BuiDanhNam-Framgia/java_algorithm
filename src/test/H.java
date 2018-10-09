@@ -30,7 +30,6 @@ public class H {
                  int du = n/a[i];
                 n = n % a[i];
                 count += du ; 
-//                i++;
             }
         }
         return count;
